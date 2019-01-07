@@ -5,6 +5,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## [Unreleased]
 
+### Fixed
+ * SVG Rendering issues on some icons ([2167](https://github.com/lbryio/lbry-desktop/pull/2167))
+ * Copy fix where copying a link would only copy the vanity/community URL ([2168](https://github.com/lbryio/lbry-desktop/pull/2168))
+
+## [0.26.1] - 2019-01-07
+
 ### Added
 
 ### Changed
